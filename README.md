@@ -6,8 +6,9 @@
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Samanthapudi-Shakeer&label=Profile%20Views&color=0e75b6&style=flat" alt="Samanthapudi-Shakeer" />
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/twitter/follow/yourhandle?logo=twitter&style=for-the-badge" alt="yourhandle" />
+  <a href="https://www.linkedin.com/in/shakeer-samanthapudi/">
+    <img src="https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin&style=for-the-badge" alt="yourhandle" />
+
   </a>
 </p>
 
