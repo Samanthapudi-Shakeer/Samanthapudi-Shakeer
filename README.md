@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi 👋, I'm Shakeer Samanthapudi
+<h1>Hellooo 👋, I'm Shakeer Samanthapudi</h1>
 
-### A passionate developer and machine learning enthusiast
+### Machine Learning enthusiast
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Samanthapudi-Shakeer&label=Profile%20Views&color=0e75b6&style=flat" alt="Samanthapudi-Shakeer" />
@@ -15,11 +15,10 @@
 ---
 
 ### 👨‍💻 About Me:
-- 🔭 I’m currently working on **Benchmarking datasets for Darvdina language sentiment analysis**
-- 🌱 I’m learning **Machine Learning and Web Development**
-- 💬 Ask me about **Python, React, Machine Learning**
-- 📫 How to reach me: **[samanthapudi.shakeer@gmail.com](mailto:samanthapudi.shakeer@gmail.com)**
-- ⚡ Fun fact: **I love green tea 🍵**
+- 🔭 Currently Working on **Benchmarking Datasets for Dravidian Language Sentiment Analysis**
+- 🌱 Progressive on **Machine Learning and Web Development**
+- 💬 Futuristic in **Python, React, Machine Learning**
+- 📫 Contact me: **[samanthapudi.shakeer@gmail.com](mailto:samanthapudi.shakeer@gmail.com)**
 
 ---
 
