@@ -18,7 +18,7 @@
 - 🔭 Currently Working on **Benchmarking Datasets for Dravidian Language Sentiment Analysis**
 - 🌱 Progressive on **Machine Learning and Web Development**
 - 💬 Futuristic in **Python, React, Machine Learning**
-- 📫 Contact me: **[samanthapudi.shakeer@gmail.com](mailto:samanthapudi.shakeer@gmail.com)**
+- 📫 Contact me: **[shakeer.samanthapudi@gmail.com](mailto:shakeer.samanthapudi@gmail.com)**
 
 ---
 
