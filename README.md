@@ -2,7 +2,7 @@
 
 <h1>Hellooo 👋, I'm Shakeer Samanthapudi</h1>
 
-### Machine Learning enthusiast
+### Machine Learning and Data Science Enthusiast
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Samanthapudi-Shakeer&label=Profile%20Views&color=0e75b6&style=flat" alt="Samanthapudi-Shakeer" />
