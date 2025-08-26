@@ -15,6 +15,7 @@
 ---
 
 ### 👨‍💻 About Me:
+- 🧠 AIML Intern - Toshiba 
 - 🔭 Currently Working on **Benchmarking Datasets for Dravidian Language Sentiment Analysis**
 - 🌱 Progressive on **Machine Learning and Web Development**
 - 💬 Futuristic in **Python, React, Machine Learning**
